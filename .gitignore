@@ -1,0 +1,5 @@
+.DS_*
+.idea
+cmake-build-debug
+CMakeLists.txt
+
